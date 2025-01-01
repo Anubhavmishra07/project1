@@ -1,4 +1,5 @@
 # project1
-this is my first project on my dev journey
+I have created this repository to keep track of my dev journey .<br>
+I keep updating and uploading files as I learn them.
 <br>
 Author - Anubhav kumar
